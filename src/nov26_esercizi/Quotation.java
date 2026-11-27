@@ -1,7 +1,7 @@
 package nov26_esercizi;
 
 public class Quotation {
-	public String quote = "So programmare in Java!";
+	public String quote;
 	
 	public void display() {
 		System.out.println(quote);
